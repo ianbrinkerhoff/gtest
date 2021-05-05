@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\Admin\Documents\VisualStudioProjects\UnitTesting\GoogleTest\GoogleTestProject\x64\Debug\gTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestCaseName1.TestName1" Duration="1" />
+    <TestDuration Test="TestCaseName2.TestName2" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

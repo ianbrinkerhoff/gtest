@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\VisualStudioProjects\UnitTesting\GoogleTest\GoogleTestProject\gTest\x64\Debug\gTest.vcxproj.CopyComplete
